@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.RupeshKumar11712081.homebudgetmanagement">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".BudgetInfo"></activity>
+        <activity android:name="com.p1.homebudgetmanagement.BudgetInfo" />
+        <activity android:name=".Search" />
+        <activity android:name="com.p1.homebudgetmanagement.SearchExpence" />
+        <activity android:name=".DeleteExpirience" />
+        <activity android:name="com.p1.homebudgetmanagement.DeleteExperience" />
+        <activity android:name="com.p1.homebudgetmanagement.DeleteExpence" />
+        <activity android:name=".ExpenceActivity" />
+        <activity android:name="com.p1.homebudgetmanagement.ExpenceActivity" />
+        <activity android:name="com.p1.homebudgetmanagement.EnterExpence" />
+        <activity android:name=".HomeBudgetActivity" />
+        <activity android:name="com.p1.homebudgetmanagement.HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

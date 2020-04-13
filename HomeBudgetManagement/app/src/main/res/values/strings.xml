@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">“HomeBudgetManagement</string>
+    <string name="about_string">Project Created by : \nRupesh Kumar \nReg. No.-11712081\nRoll No.-RKM003B43\nCourse Code-CSE226(ANDROID APP DEPLOYMENT)\n\n\nSubmitted to Mr. Roshan Srivastava\nLovely Professional University, Phagwara</string>
+    <string name="Github_Link">Github Link :\n https://github.com/rupesh-kumar-lpu</string>
+</resources>
